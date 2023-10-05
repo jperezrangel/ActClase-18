@@ -45,7 +45,7 @@ Error
 >>> -1
 >>> 3
 >>> 6
-[7 5]
+[7, 5]
 ```
 
 NOTA IMPORTANTE: Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
